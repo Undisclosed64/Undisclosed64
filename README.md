@@ -5,7 +5,7 @@
 
 
 ### Some things about me 
-- ⚡ Here's my <a href="https://tahera.netlify.app/"target="_blank">website</a>.  
+- ⚡ Here's my <a href="https://tahera.netlify.app" target="_blank">website</a>.  
   
 
 - ⚡ I'm currently learning NodeJs.  
