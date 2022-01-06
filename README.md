@@ -3,13 +3,18 @@
 ### <div align="center">I'm Tahera, a front end developer who is eager to join an enthusiastic team to create amazing things together.</div>  
   
 
+
+### About me 
+- ⚡ Here's my <a href="https://tahera.netlify.app/">website</a>.  
+  
+
 - ⚡ I'm currently learning NodeJs.  
   
 
 - ⚡ I dream of being exceptional in my line of work.  
   
 
-- ⚡ I love to read and stare at the night sky.  
+- ⚡ And I love to read and gaze at the night sky.  
   
 
 
