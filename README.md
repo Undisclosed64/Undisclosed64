@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://unsplash.com/photos/ICbGtkX9-q8)
+[![Header](https://unsplash.com/photos/ICbGtkX9-q8 "Header")](https://unsplash.com/photos/ICbGtkX9-q8)
 <!--
 **Undisclosed64/Undisclosed64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
