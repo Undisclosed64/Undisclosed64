@@ -41,13 +41,12 @@
   
 
 
-
+### Github stats
 <img src="https://github-readme-stats.vercel.app/api?username=Undisclosed64&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 
 
 
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Undisclosed64&&style=flat-square)  
   
  
