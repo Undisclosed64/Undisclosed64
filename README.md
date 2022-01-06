@@ -4,7 +4,7 @@
   
 
 
-### About me 
+### Some things about me 
 - ⚡ Here's my <a href="https://tahera.netlify.app/">website</a>.  
   
 
