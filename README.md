@@ -1,6 +1,6 @@
 
 # Hello, amazing people! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### <div align="center">I'm Tahera, a front end developer who is eager to join an enthusiastic team to create amazing things together.🚀</div>  
+### <div align="center">I'm Tahera, a front end developer who is eager to join an enthusiastic team to create amazing things together.</div>  
   
 
 - ⚡ I'm currently learning NodeJs.  
@@ -41,12 +41,5 @@
   
 
 
-### Github stats
-<img src="https://github-readme-stats.vercel.app/api?username=Undisclosed64&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-
-
-
-
-  
- 
+<img src="https://github-readme-stats.vercel.app/api?username=Undisclosed64&show_icons=true&count_private=true&hide_border=true" align="left" /> 
