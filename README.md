@@ -1,6 +1,6 @@
 
 # Hello, amazing people! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### <div align="center">I'm Tahera, a front end developer who is eager to join an enthusiastic team to create amazing things together. 🚀</div>  
+### <div align="center">I'm Tahera, a front end developer who is eager to join an enthusiastic team to create amazing things together.🚀</div>  
   
 
 - 🔭 Currently I'm learning NodeJs.  
@@ -40,11 +40,15 @@
 </a>  
   
 
+
 <img src="https://github-readme-stats.vercel.app/api?username=Undisclosed64&show_icons=true&count_private=true&hide_border=true" align="left" />  
+
+
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Undisclosed64&&style=flat-square)  
   
 
 <br/>  
+
 
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
