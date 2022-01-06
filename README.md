@@ -3,7 +3,7 @@
 ### <div align="center">I'm Tahera, a front end developer who is eager to join an enthusiastic team to create amazing things together.🚀</div>  
   
 
-- 🔭 Currently I'm learning NodeJs.  
+- ⚡ I'm currently learning NodeJs.  
   
 
 - ⚡ I dream of being exceptional in my line of work.  
@@ -16,11 +16,11 @@
 
 ### My Skill Set  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" />  
+<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" />  
+<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" />  
+<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" />  
+<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="75" />  
+<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" />  
 </div>  
 
 
@@ -41,14 +41,13 @@
   
 
 
+
 <img src="https://github-readme-stats.vercel.app/api?username=Undisclosed64&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<br></br>
+
+
+
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Undisclosed64&&style=flat-square)  
   
-<br>
-<br/>  
-
-
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+ 
