@@ -1,5 +1,5 @@
 
-# <div align="center">Hello, amazing you! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></div>
+# <div align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> amazing you!</div>
 ### <div align="center">I'm Tahera, a front end developer who is eager to join an enthusiastic team to create amazing things together.</div>  
   
 
