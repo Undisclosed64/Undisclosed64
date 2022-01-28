@@ -1,6 +1,6 @@
 
 # <div align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> amazing you!</div>
-### <div align="center">I'm Tahera, a front end developer who is learning and exploring new things every single day. I want to be a great full stack developer and I am working on making myself a better one by each passing day.</div>  
+### <div align="center">I'm Tahera, a front end developer who is learning and exploring new things every daily. I want to be a great full stack developer and I am working on making myself a better one by each passing day.</div>  
   
 
 
