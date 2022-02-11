@@ -14,7 +14,7 @@
 - ⚡ I dream of being exceptional in my line of work.  
   
 
-- ⚡ And I love to read and gaze at the night sky.  
+- ⚡ And I love to read books and gaze at the starry sky.  
   
 
 
