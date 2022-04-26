@@ -1,6 +1,6 @@
 
 # <div align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> visitor!</div>
-### <div align="center">I'm Tahera, a front end developer who is learning and exploring new things daily. I want to be a great full stack developer and I am working on making myself a better one by each passing day.</div>  
+### <div align="center">I'm Tahera. I am a full stack web developer with MERN stack.</div>  
   
 
 
@@ -11,10 +11,10 @@
 - ⚡ I'm currently learning NodeJs.  
   
 
-- ⚡ I dream of being exceptional in my line of work.  
+- ⚡ I want to be exceptional in my line of work i.e development.  
   
 
-- ⚡ And I love to read books and gaze at the starry sky.  
+- ⚡ And I love to read books and enjoy the starry sky.  
   
 
 
