@@ -9,7 +9,7 @@
   
 - ⚡ You can contact me at taheraalam532@gmail.com. 
 
-- ⚡ I'm building things with NodeJs.    
+- ⚡ I build things with HTML,CSS,JAVASCRIPT and MERN.    
 
 - ⚡ I want to be exceptional in my line of work i.e development.  
   
