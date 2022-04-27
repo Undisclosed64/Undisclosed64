@@ -7,8 +7,9 @@
 ### Some things about me 
 - ⚡ Here's my <a href="https://tahera.netlify.app" target="_blank">website</a>.  
   
+- ⚡ You can contact me at taheraalam532@gmail.com 
 
-- ⚡ I'm currently learning NodeJs.  
+- ⚡ I'm building things with NodeJs.  
   
 
 - ⚡ I want to be exceptional in my line of work i.e development.  
