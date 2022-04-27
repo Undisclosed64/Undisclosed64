@@ -7,7 +7,7 @@
 ### Some things about me 
 - ⚡ Here's my <a href="https://tahera.netlify.app" target="_blank">website</a>.  
   
-- ⚡ You can contact me here taheraalam532@gmail.com 
+- ⚡ You can contact me at taheraalam532@gmail.com. 
 
 - ⚡ I'm building things with NodeJs.    
 
