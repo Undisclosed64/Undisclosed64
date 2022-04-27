@@ -1,6 +1,6 @@
 
 # <div align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> visitor!</div>
-### <div align="center">I'm Tahera. I am a full stack web developer with MERN stack.</div>  
+### <div align="center">I'm Tahera. I am a full stack web developer with MERN as my stack.</div>  
   
 
 
