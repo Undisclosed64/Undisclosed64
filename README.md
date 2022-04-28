@@ -13,7 +13,7 @@
 
 - ⚡ I want to be exceptional in my line of work i.e development.  
   
-- ⚡ I love to read books and enjoy gazing at the starry sky.  
+- ⚡ And I love to read books and enjoy gazing at the starry sky.  
   
 
 
