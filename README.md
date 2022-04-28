@@ -1,5 +1,5 @@
 
-# <div align="center">Hello visitor!</div>
+# <div align="center">Hey there!</div>
 ### <div align="center">I'm Tahera. I am a full stack web developer with MERN as my stack.</div>  
   
 
@@ -13,8 +13,7 @@
 
 - ⚡ I want to be exceptional in my line of work i.e development.  
   
-
-- ⚡ And I love to read books and enjoy the starry sky.  
+- ⚡ I love to read books and enjoy gazing at the starry sky.  
   
 
 
