@@ -7,7 +7,9 @@ I am a full stack developer.
 After learning front end technologies and building a number of projects with it, I am working with NodeJS now. Currently,I am building a backend project as a freelancer.
 
 * ✉️  You can contact me at [taheraalam532@gmail.com](mailto:taheraalam532@gmail.com)
+* 
 * 🤝  I'm open to collaborating on Front end or backend projects.
+* 
 * ⚡  I absolutely love mountains and stars.
 
 <a href="https://www.twitter.com/alam_tahera" target="_blank" rel="noreferrer"><img
