@@ -1,22 +1,34 @@
 Hi 👋 My name is Tahera
 =======================
 
-I am a full stack developer.
+I am a full stack web developer.
 ----------------------------
 
-After learning front end technologies and building a number of projects with it, I am working with NodeJS now. Currently,I am building a backend project as a freelancer.
+I am skilled in front-end technologies like Javascript,React-JS,CSS3 and backend technologies like NodeJS,MongoDB and Express. Currently, I am building my first backend project as a freelancer.
+
+## Some things about me:
+
+* ⚡ Here's my website https://tahera.netlify.app/
 
 * ✉️  You can contact me at [taheraalam532@gmail.com](mailto:taheraalam532@gmail.com) 
 
+* 🤝  I build things with HTML,CSS,JS and MERN.
+
 * 🤝  I'm open to collaborating on Front end or backend projects.
+ 
+* ⚡  I love to read and I am a lifelong learner.
 
 * ⚡  I absolutely love mountains and stars.
+
+
 
 
 <a href="https://www.twitter.com/alam_tahera" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/alam_tahera?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/Undisclosed64" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Undisclosed64?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+
 ### Skills
 
 <p align="left">
@@ -31,9 +43,13 @@ src="https://img.shields.io/github/followers/Undisclosed64?logo=github&style=for
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 </p>
 
+
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Undisclosed64" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tahera-alam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/alam_tahera" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Undisclosed64" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<a href="https://www.linkedin.com/in/tahera-alam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/alam_tahera" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
