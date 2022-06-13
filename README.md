@@ -16,9 +16,9 @@ I am skilled in front-end technologies like Javascript,React-JS,CSS3 and backend
 
 * 🤝  I'm open to collaborating on Front end or backend projects.
  
-* ⚡  I love to read and I am a lifelong learner.
+* ⚡  I love to read and I am an avid reader.
 
-* ⚡  I absolutely love mountains and stars.
+* ⚡  I love mountains and stars.
 
 
 
