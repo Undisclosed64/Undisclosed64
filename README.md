@@ -1,7 +1,7 @@
 Hi 👋 My name is Tahera
 =======================
 
-I am a full stack web developer.
+I am a MERN stack web developer.
 ----------------------------
 
 I am skilled in front-end technologies like Javascript,React-JS,CSS3 and backend technologies such as NodeJS,MongoDB and Express. 
@@ -14,11 +14,11 @@ I am skilled in front-end technologies like Javascript,React-JS,CSS3 and backend
 
 * 🤝  I build things with HTML,CSS,JS and MERN.
 
-* 🤝  I'm open to collaborating on Front end or backend projects.
+* 🤝  I'm open to collaborating on Front end, backend projects or full stack projects.
  
-* ⚡  I love to read.
+* ⚡  I create tech content around web development on twitter.
 
-* ⚡  I love mountains and stars.
+* ⚡  I love to read.
 
 
 
