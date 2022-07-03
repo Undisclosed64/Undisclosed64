@@ -16,7 +16,7 @@ I am skilled in front-end technologies like Javascript,React-JS,CSS3 and backend
 
 * 🤝  I'm open to collaborating on Front end, backend projects or full stack projects.
  
-* ⚡  I create tech content around web development on twitter.
+* ⚡  I create content around web development on twitter.
 
 * ⚡  I love to read.
 
