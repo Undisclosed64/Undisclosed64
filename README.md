@@ -1,4 +1,4 @@
-Hi 👋 I am Tahera
+Hey 👋 I am Tahera
 =======================
 
 I am a MERN stack web developer.
