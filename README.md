@@ -10,15 +10,15 @@ I am skilled in front-end technologies like Javascript,React-JS,CSS3 and backend
 
 * ⚡ Here's my website https://tahera.netlify.app/
 
-* ✉️  You can contact me at [taheraalam532@gmail.com](mailto:taheraalam532@gmail.com) 
+* ⚡  You can contact me at [taheraalam532@gmail.com](mailto:taheraalam532@gmail.com) 
 
-* 🤝  I build things with HTML,CSS,JS and MERN.
+* ⚡ I build things with HTML,CSS,JS and MERN.
 
-* 🤝  I'm open to collaborating on Front end, backend or full stack projects.
+* ⚡ I'm open to collaborating on Front end, backend or full stack projects.
  
-* ⚡  I create content around web development on twitter and on https://www.lambdatest.com/
+* ⚡  I create content around web development on https://www.lambdatest.com/ and twitter.
 
-* ⚡  I love to read.
+* ⚡  I love books,mountains and stars.
 
 
 
@@ -60,4 +60,4 @@ src="https://img.shields.io/github/followers/Undisclosed64?logo=github&style=for
 
 <a href="http://www.github.com/Undisclosed64"><img src="https://activity-graph.herokuapp.com/graph?username=Undisclosed64&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Undisclosed64" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Undisclosed64&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
