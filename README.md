@@ -1,7 +1,7 @@
 Hey 👋 I am Tahera
 =======================
 
-I am a MERN stack web developer.
+I am a full-stack web developer.
 ----------------------------
 
 I am skilled in front-end technologies like Javascript,React-JS,CSS3 and backend technologies such as NodeJS, MongoDB and Express. 
@@ -18,7 +18,7 @@ I am skilled in front-end technologies like Javascript,React-JS,CSS3 and backend
  
 * ⚡  I create content around web development on https://www.lambdatest.com/ and twitter.
 
-* ⚡  At this time, I am strengthening my Data structures and algorithms.
+* ⚡  At this time, I am strengthening my Data structures and algorithms. Next I want to dive deep into TypeScipt and Next.js.
 
 * ⚡  I love books, mountains and stars.
 
