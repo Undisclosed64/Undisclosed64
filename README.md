@@ -12,13 +12,13 @@ I am skilled in front-end technologies like Javascript,React-JS,CSS3 and backend
 
 * ⚡  You can contact me at [taheraalam532@gmail.com](mailto:taheraalam532@gmail.com) 
 
-* ⚡ I build things with HTML,CSS,JS and MERN.
+* ⚡ I use React, Javascript, NodeJS and MongoDB as my primary tech stack.
 
 * ⚡ I'm open to collaborating on Front end, backend or full stack projects.
  
 * ⚡  I create content around web development on https://www.lambdatest.com/ and twitter.
 
-* ⚡  At this time, I am strengthening my Data structures and algorithms. Next I want to dive deep into TypeScipt and Next.js.
+* ⚡  At this time, I am strengthening my Data structures and algorithms.
 
 * ⚡  I love books, mountains and stars.
 
