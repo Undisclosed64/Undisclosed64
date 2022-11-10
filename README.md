@@ -4,7 +4,7 @@ Hey 👋 I am Tahera
 I am a full-stack web developer.
 ----------------------------
 
-I am skilled in front-end technologies like Javascript,React-JS,CSS3 and backend technologies such as NodeJS, MongoDB and Express. 
+I am skilled in front-end technologies like Javascript,React-JS,CSS3 and backend technologies such as NodeJS, MongoDB and Express etc. 
 
 ## Some things about me:
 
