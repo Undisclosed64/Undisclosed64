@@ -1,10 +1,10 @@
-Hey 👋 I am Tahera
+Hi 👋 I am Tahera
 =======================
 
 I am a full-stack web developer.
 ----------------------------
 
-I am skilled in front-end technologies like Javascript,React-JS,CSS3 and backend technologies such as NodeJS, MongoDB and Express etc. 
+I am skilled in front-end technologies like Javascript,React-JS,CSS,Tailwind and backend technologies such as NodeJS, MongoDB and Express etc. 
 
 ## Some things about me:
 
@@ -18,7 +18,6 @@ I am skilled in front-end technologies like Javascript,React-JS,CSS3 and backend
  
 * ⚡  I create content around web development on https://www.lambdatest.com/ and twitter.
 
-* ⚡  I love books, mountains and stars.
 
 
 
