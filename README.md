@@ -16,7 +16,7 @@ I am skilled in front-end technologies like Javascript,React-JS,CSS,Tailwind and
 
 * ⚡ I'm open to collaborating on Front end, backend or full stack projects.
  
-* ⚡  I create content around web development on https://www.lambdatest.com/ and twitter.
+* ⚡  I create content around web development on https://www.lambdatest.com/
 
 
 
