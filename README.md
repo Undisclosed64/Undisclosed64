@@ -1,4 +1,4 @@
-Hi 👋 I am Tahera
+Hi, I am Tahera
 =======================
 
 I am a full-stack web developer.
