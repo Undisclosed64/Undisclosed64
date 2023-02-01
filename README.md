@@ -12,9 +12,9 @@ I am skilled in front-end technologies like Javascript,React-JS,CSS,Tailwind and
 
 * ⚡  You can contact me at [taheraalam532@gmail.com](mailto:taheraalam532@gmail.com) 
 
-* ⚡ React, JavaScript, Node.js, Express.js, MongoDB are some of things I work with.
+* ⚡ React, JavaScript, Node.js, Express.js, MongoDB are some of technolgies I work with.
 
-* ⚡ I'm open to collaborating on Front end, backend or full stack projects.
+* ⚡ I'm open to collaborating on Front end, backend and full stack projects.
  
 * ⚡  I create content around web development on https://www.lambdatest.com/
 
