@@ -20,7 +20,6 @@ I am skilled in front-end technologies like Javascript,React-JS,CSS,Tailwind and
 
 
 
-### Badges
 
 <b>My GitHub Stats</b>
 
