@@ -16,7 +16,7 @@ I am skilled in front-end technologies like Javascript,React-JS,CSS,Tailwind and
  
 * ⚡  I create content around web development on https://www.lambdatest.com/
 
-* ⚡  You can contact me at [taheraalam532@gmail.com](mailto:taheraalam532@gmail.com) 
+*
 
 
 
