@@ -1,7 +1,7 @@
 # 💫 About Me:
 ### A developer who is passionate about building seamless web experiences from front-end to back-end.
 
-- I'm currently working on Trackr, where I'm building an issue tracker for software I'm using React/Node.js/Express/MongoDB to develop this project.
+- I'm currently working on [Trackr](https://github.com/Undisclosed64/Trackr), where I'm building an issue tracker for software I'm using React/Node.js/Express/MongoDB to develop this project.
 - I love learning new things. Currently, I'm learning TypeScript.
 - Feel free to ask me about JavaScript, Node.js, Express, MongoDB or any related queries.
 - You can reach out to me at taheraalam532@gmail.com.
