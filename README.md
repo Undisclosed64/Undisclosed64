@@ -1,10 +1,15 @@
-# 💫 About Me:
-### A developer who is passionate about building seamless web experiences from front-end to back-end.
+# Hi there! 👋 I'm Tahera, and I love building seamless web experiences.
 
-- I'm currently working on [Trackr](https://github.com/Undisclosed64/Trackr), where I'm building an issue tracker for software and project management. I'm using React/Node.js/Express/MongoDB to develop this project.
-- I love learning new things. Currently, I'm learning TypeScript.
-- Feel free to ask me about JavaScript, Node.js, Express, MongoDB or any related queries.
-- You can reach out to me at taheraalam532@gmail.com.
+
+- Right now, I'm hard at work on [trackr](https://github.com/Undisclosed64/Trackr) – an issue tracker for software and project management. Using my expertise in React, Node.js, Express, and MongoDB, I'm developing a tool that helps manage projects.
+
+- Learning isn't just a hobby, it's a way of life, and I'm always on the lookout for new things to explore. At the moment, I'm diving deep into TypeScript and NextJS, and can't wait to see how they can elevate my work.
+
+- I'm also a blogger at [LambdaTest](https://www.lambdatest.com) – writing about the latest trends and techniques in web development. Check out [my posts](https://www.lambdatest.com/blog/author/taheraalam/) for tips and insights that can help take your skills to the next level.
+
+- Got a question about JavaScript, Node.js, Express, MongoDB, or anything else related to web development? I'm here to help! Feel free to reach out and start a conversation.
+
+- Finally if you just want to say hi or collaborate on a project, don't hesitate to drop me a line at @taheraalam532@gmail.com. I'm always excited to connect with fellow developers and see what we can create together.
 
 
 ## 🌐 Socials:
