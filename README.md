@@ -1,6 +1,5 @@
 # 💫 About Me:
 ### A developer who is passionate about building seamless web experiences from front-end to back-end.
-
 <br><br>I'm currently working on Trackr, where I'm building an issue tracker for software. I'm using React/Node.js/Express/MongoDB to develop this project.<br><br>I'm always trying to improve my skills. Currently, I'm learning TypeScript.<br><br>Feel free to ask me about JavaScript, Node.js, Express, MongoDB or any related queries.<br>
 
 
@@ -12,7 +11,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=undisclosed64&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=undisclosed64&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=undisclosed64&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=alam_tahera)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
