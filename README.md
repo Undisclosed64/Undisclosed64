@@ -1,30 +1,17 @@
-Hi, I am Tahera
-=======================
+Hello there! 👋🏽
+My name is Tahera, and I'm a web developer. I'm passionate about building front-end and backend of the web, and I just love to learn new stuff.
 
-I am a full-stack web developer.
-----------------------------
+🔭 I'm currently working on
+I'm currently working on Trackr, which is an application for software issue tracking and project management. I'm using React/Node.js/Express/MongoDB to develop this project.
 
-I am skilled in front-end technologies like Javascript,React-JS,CSS,Tailwind and backend technologies such as NodeJS, MongoDB and Express etc. 
+🌱 I'm currently learning
+I'm always learning and trying to improve my skills. Currently, I'm learning TypeScript.
 
-## Some things about me:
+💬 Ask me about
+I'm happy to help and share my knowledge. Feel free to ask me about JavaScript, React, Node.js or any related queries.
 
-* ⚡ Here's my website https://tahera.netlify.app/
-
-* ⚡ React, JavaScript, Node.js, Express.js, MongoDB are some of technolgies I work with.
-
-* ⚡ I'm open to collaborating on Front end, backend and full-stack projects.
- 
-* ⚡  I create content around web development on https://www.lambdatest.com/
-
-*
-
-
-
-
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Undisclosed64"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Undisclosed64&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+📫 How to reach me
+You can reach me through taheraalam532@gmail.com to connect or collaborate.
 
 
 
