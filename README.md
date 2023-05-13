@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Tahera, and I love building seamless web experiences.
 
-- Right now, I'm hard at work on [trackr](https://github.com/Undisclosed64/Trackr) – an issue tracker for software and project management. Using my expertise in React, Node.js, Express, and MongoDB, I'm developing a tool that helps manage projects.
+- Right now, I'm hard at work on [trackr](https://github.com/Undisclosed64/Trackr) – an issue tracker for software and project management. Using my skills in React, Node.js, Express, and MongoDB, I'm developing a tool that helps manage projects.
 
-- Learning isn't just a hobby, it's a way of life, and I'm always on the lookout for new things to explore. At the moment, I'm diving deep into TypeScript and NextJS, and can't wait to see how they can elevate my work.
+- Learning isn't just a hobby, it's a way of life for me, and I'm always on the lookout for new things to explore. At the moment, I'm diving deep into TypeScript and NextJS, and can't wait to see how they can elevate my work.
 
 - I'm also a blogger at [LambdaTest](https://www.lambdatest.com) – writing about the latest trends and techniques in web development. Check out [my posts](https://www.lambdatest.com/blog/author/taheraalam/) for tips and insights that can help take your skills to the next level.
 
