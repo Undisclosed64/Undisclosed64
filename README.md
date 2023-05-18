@@ -8,7 +8,7 @@
 
 - Got a question about JavaScript, Node.js, Express, MongoDB, or anything else related to web development? I'm here to help! Feel free to reach out and start a conversation.
 
-- Finally if you just want to say hi or collaborate on a project, don't hesitate to drop me a line at @taheraalam532@gmail.com. I'm always excited to connect with fellow developers and see what we can create together.
+- I'm also available for hire. So, if you just want to say hi or collaborate on a project, don't hesitate to drop me a line at @taheraalam532@gmail.com. I'm always super excited to connect with people like you.
 
 
 ## 🌐 Socials:
