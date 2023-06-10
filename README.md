@@ -2,13 +2,11 @@
 
 - Right now, I'm hard at work on [trackr](https://github.com/Undisclosed64/Trackr) – an issue tracker for software and project management. Using my skills in React, Node.js, Express, and MongoDB, I'm developing a tool that helps manage projects.
 
-- Learning isn't just a hobby, it's a way of life for me, and I'm always on the lookout for new things to explore. At the moment, I'm diving deep into TypeScript and NextJS, and can't wait to see how they can elevate my work.
+- Learning isn't just a hobby, it's a way of life for me, and I'm always on the lookout for new things to explore. At the moment, I'm diving deep into TypeScript and NextJS.
 
-- I'm also a blogger at [LambdaTest](https://www.lambdatest.com) – writing about the latest trends and techniques in web development. Check out [my posts](https://www.lambdatest.com/blog/author/taheraalam/) for tips and insights that can help take your skills to the next level.
+- I'm also a technical writer at [LambdaTest](https://www.lambdatest.com) – writing about the various concepts of frontend development https://www.lambdatest.com/blog/author/taheraalam/
 
-- Got a question about JavaScript, Node.js, Express, MongoDB, or anything else related to web development? I'm here to help! Feel free to reach out and start a conversation.
-
-- I'm also available for hire. So, if you just want to say hi or collaborate on a project, don't hesitate to drop me a line at @taheraalam532@gmail.com. I'm always super excited to connect with people like you.
+- Finally, if you just want to say hi or collaborate on a project, don't hesitate to drop me a line at @taheraalam532@gmail.com. I'm always excited to connect with people like you.
 
 
 ## 🌐 Socials:
