@@ -4,7 +4,7 @@
 
 - Learning isn't just a hobby, it's a way of life for me, and I'm always on the lookout for new things to explore. At the moment, I'm diving deep into TypeScript and NextJS.
 
-- I'm also a technical writer at [LambdaTest](https://www.lambdatest.com) – writing about the various concepts of frontend development with an extensive focus on cross-browser compatibility. You can find some of my work here: https://www.lambdatest.com/blog/author/taheraalam/
+- I'm also a technical writer at [LambdaTest](https://www.lambdatest.com) – writing about the various concepts of frontend development with an extensive focus on cross-browser compatibility and responsive design. You can find some of my work here: https://www.lambdatest.com/blog/author/taheraalam/
 
 - If you just want to say hi or collaborate on a project, don't hesitate to drop me a line at @taheraalam532@gmail.com. I'm always excited to connect with people like you.
 
