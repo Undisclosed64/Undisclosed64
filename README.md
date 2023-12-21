@@ -59,13 +59,13 @@
                     <a href="#">
                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="64px" width="64px">
                     </a>
-                    <br>HTML
+                    <br>HTML5
                 </td>
               <td align="center" width="25%">
                     <a href="#">
                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="64px" width="64px">
                     </a>
-                    <br> CSS
+                    <br> CSS3
                 </td>
               <br>	 
               
@@ -142,6 +142,8 @@
 - <a href="https://www.lambdatest.com/blog/css-grid/">A Complete guide to CSS Grid</a>
 - <a href="https://www.lambdatest.com/blog/css-pseudo-class-selectors/">A Guide To Newly Supported CSS Pseudo-Class Selectors</a>
 - <a href="https://www.lambdatest.com/blog/css-cascade-layers/">A Complete Guide To CSS Cascade Layers</a>
+
+##
 
 ###
 <img  src="https://github-readme-stats.vercel.app/api?username=undisclosed64&show_icons=true&theme=react" width="48%" align="right" >
