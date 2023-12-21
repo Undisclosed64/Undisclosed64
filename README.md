@@ -101,6 +101,12 @@
                     </a>
                     <br>REST
                 </td>
+		 <td align="center" width="25%">
+                    <a href="#">
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="NodeJS" height="64px" width="64px">
+                    </a>
+                    <br>Java
+                </td>
             </tr>
         </tbody>
     </table>
