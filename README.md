@@ -26,7 +26,7 @@
                     <br>React
                 </td>
               <td align="Center" width="25%">   
-        <a href="#dhrumi-tech" >
+        <a href="#" >
         <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </a>
       <br>JavaScript
@@ -38,7 +38,7 @@
       <br>TypeScript
 </td>
         <td align="Center" width="25%">   
-        <a href="#dhrumi-tech" >
+        <a href="#" >
         <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/nextjs.svg">
       </a>
       <br>NextJS
@@ -118,19 +118,19 @@
 	 <tr>
 		  
 <td align="Center" width="25%">   
-        <a href="#dhrumi-tech" >
+        <a href="#" >
         <img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png">
       </a>
       <br>GIT
   </td>
   <td align="Center" width="25%">   
-        <a href="#dhrumi-tech" >
+        <a href="#" >
         <img height="64px" width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg">
       </a>
       <br>Webpack
   </td>
    <td align="Center" width="25%">   
-        <a href="#dhrumi-tech" >
+        <a href="#" >
         <img height="64px" width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
       </a>
       <br>NPM
