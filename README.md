@@ -152,8 +152,7 @@
 ##
 
 ###
-<img  src="https://github-readme-stats.vercel.app/api?username=undisclosed64&show_icons=true&theme=react" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=undisclosed64&theme=react" width="48%" >
+
 
 ##
 
