@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Tahera 👋  </h1>
 
 - **A Full-stack Developer who loves building seamless web experiences  💻** <br />
-- Currently, diving into the intricacies of **full-stack development** through a cohort led by [Harkirat Singh](https://twitter.com/kirat_tw). Alongside the cohort, I'm also focusing on strengthening my **data structures & algorithms** skills.
 - When I'm not coding, I love simplifying complex technical concepts into easy-to-understand content. Check out some [here](https://www.lambdatest.com/blog/author/taheraalam/) that have generated 400k+ views!
 
 ### Some of my projects:
