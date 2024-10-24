@@ -5,15 +5,16 @@
 - When I'm not coding, I love simplifying complex technical concepts into easy-to-understand content. Check out some [here](https://www.lambdatest.com/blog/author/taheraalam/) that have generated 400k+ views!
 
 ### Some of my projects:
+   
+  - [**Scribe**](https://scribe-note-taker.vercel.app/) - Scribe is a comprehensive note-taking app that lets you create notes and access them on the go. Key features include searching by keyword, sharing notes, edit, delete and more. The frontend is developed using React and Tailwind and backend uses Nodejs and Express.
+   
+  - [**CineFlix**](https://cine-flix-rent.vercel.app/) - CineFlix is a movie rental app that lets you browse through trending movies and rent them. Main features include viewing movies, checking more information about a movie, addding movies to cart, removing them from cart etc.
 
  - [**Trackr**](https://trackr.cyclic.app/) - Trackr is a powerful issue tracker that allows developers to track issues of their projects in the simplest way possible. Users can create tickets(issues) within a project and mangage them. To make project management a breeze, trackr provides features such as visibility flags of tickets like internal/external, severity flags like major/minor, current status flags like open/in-progress/closed etc. It also features data visulaization and a clean dashboard making it ideal for tracking small-scale projects. 
    
  - [**Blogosphere**](https://blogosphere.cyclic.app/) - Blogosphere is a cutting-edge blogging app that features blog posts and allows users to read and interact with them. With a sleek user interface developed using React and vanilla CSS, blogosphere features a neat commenting system and a seamless signup and login processes ensuring a pleasing and intuitive user experience.
    
-  - [**ResumeForge**](https://cv-maker-app.netlify.app/) - ResumeForge is a user-friendly resume-building application that provides a pre-built template, enabling users to generate resumes within minutes. Users can customize the quality, layout, scale, and margins of their resumes effortlessly. They can also download the customized resume in multiple formats, including PDF, for seamless sharing.
-   
-  - [**Library**](https://undisclosed64.github.io/library-project/) - Librray is a virtual library project that lets you keep track of books you have read or you plan to read. It uses a form to take data where you specify the name and author of the book, number of pages it has, and whether you have read the book or not. It then stores the information right in your browser and display it as a card, each card representing a book. 
-
+    
 ### Tech Stack :
 >Frontend
 <table>
